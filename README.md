@@ -1,7 +1,7 @@
  👋 Hi, I’m Johan
  
  I am a hungry Full Stack Developer that is passionate about coding.
-- 📚 I'm currently learning React, React Native, Javascript, and Firebase
+- 📚 I'm currently learning React, React Native, Javascript, and Firebase.
 - 👀 I’m interested in clean ui design and creating great end user experiences.
 - 🌱 2022 Goals:
   - Submit my habit tracking app to the IOS app store.
