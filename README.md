@@ -6,7 +6,7 @@
 - 🌱 2022 Goals:
   - Submit my habit tracking app to the IOS app store.
   - Contribute to an open source project
-- 👾 Fun Fact: Video games are the reason I started coding. I initially started coding with Unity. 
+- 👾 Fun Fact: Video games are the reason I started coding. I initially started coding making games with Unity. 
 
 <!---
 theinventor27/theinventor27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
