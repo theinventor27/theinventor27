@@ -4,8 +4,8 @@
 - 📚 I'm currently learning React, React Native, Javascript, and Firebase
 - 👀 I’m interested in clean UI design and creating great user experiences.
 - 🌱 2022 Goals:
-  1. Submit my habit tracking app to the IOS app store.
-  2. Contribute to an open source project
+  - Submit my habit tracking app to the IOS app store.
+  - Contribute to an open source project
 - 👾 Fun Fact: Video games got me to start coding. I initially started coding with Unity. 
 
 <!---
