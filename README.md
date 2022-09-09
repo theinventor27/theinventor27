@@ -7,9 +7,7 @@
   - Submit my habit tracking app to the IOS app store.
   - Contribute to an open source project.
 
-"Some people want it to happen, some wish it would happen, others make it happen."
 
-– Michael Jordan
 <!---
 theinventor27/theinventor27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
